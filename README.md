@@ -7,3 +7,11 @@ Este proyecto estara realizado en dististos lenguajes de programacion para que s
 Cabe recalcar que se actualizara constantemente, ya que quiero sumar mis logros como desarrollador en este proyecto, quiero crecer y me gustaria que ustedes me acompañen en este proceso 
 
 Un gusto el conoceerlos y que lo disfruten! 
+
+## Paleta de colores
+
+https://coolors.co/palette/353535-3c6e71-ffffff-d9d9d9-284b63
+
+## Equipo de trabajo
+
+Gabriel Gaitan
